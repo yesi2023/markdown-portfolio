@@ -1,6 +1,6 @@
-# <h1> Test <h1>
+# Test #
 ---
-# <h2>layout: default <h2>
+layout: default
 ---
 {% include 01-name.md %}
 
